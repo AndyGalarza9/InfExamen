@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/proyectoandrea/static/css/main.e402c17d.css",
+    "main.js": "/proyectoandrea/static/js/main.25fe48b9.js",
+    "static/js/415.28a12f50.chunk.js": "/proyectoandrea/static/js/415.28a12f50.chunk.js",
+    "static/js/787.b566892e.chunk.js": "/proyectoandrea/static/js/787.b566892e.chunk.js",
+    "static/media/Madera.pdf": "/proyectoandrea/static/media/Madera.c5b53bfb3c6bbd5b4cd0.pdf",
+    "static/media/home-bg.jpg": "/proyectoandrea/static/media/home-bg.917eae7f0b47ce01ba7e.jpg",
+    "static/media/a1.jpg": "/proyectoandrea/static/media/a1.44cab7e6b1ca3f8c4dd8.jpg",
+    "static/media/produ6.jpg": "/proyectoandrea/static/media/produ6.30287e6f2e3d9161376b.jpg",
+    "static/media/a2.jpg": "/proyectoandrea/static/media/a2.170d943c82e2ebce2b22.jpg",
+    "static/media/Soumyajit_Behera-BIT_MESRA.pdf": "/proyectoandrea/static/media/Soumyajit_Behera-BIT_MESRA.b67bc39ea73918d153fd.pdf",
+    "static/media/ban1.jpeg": "/proyectoandrea/static/media/ban1.32e31575e996f7151d1e.jpeg",
+    "static/media/produ1.jpg": "/proyectoandrea/static/media/produ1.5f080cc373687203aa73.jpg",
+    "static/media/pro3.jpeg": "/proyectoandrea/static/media/pro3.a6bb5c849ee20c3d540f.jpeg",
+    "static/media/pro2.jpeg": "/proyectoandrea/static/media/pro2.aa8653c0eebc0e7c1095.jpeg",
+    "static/media/pro1.jpeg": "/proyectoandrea/static/media/pro1.1277cfeab08d9f90db67.jpeg",
+    "static/media/produ4.jpg": "/proyectoandrea/static/media/produ4.8c8886b1800874a0c816.jpg",
+    "static/media/produ2.jpg": "/proyectoandrea/static/media/produ2.56bc965728ead2776392.jpg",
+    "static/media/a3.jpg": "/proyectoandrea/static/media/a3.54b12c8f8e23b459f463.jpg",
+    "static/media/produ5.jpg": "/proyectoandrea/static/media/produ5.f58d27f983440e102e90.jpg",
+    "static/media/a4.jpg": "/proyectoandrea/static/media/a4.2ab41bd53bd74a15fb18.jpg",
+    "static/media/produ3.jpg": "/proyectoandrea/static/media/produ3.b172741069e3fc69a4b6.jpg",
+    "static/media/logo.png": "/proyectoandrea/static/media/logo.8e5943ef1fc8d83f4c40.png",
+    "static/media/pre.svg": "/proyectoandrea/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/proyectoandrea/index.html",
+    "main.e402c17d.css.map": "/proyectoandrea/static/css/main.e402c17d.css.map",
+    "main.25fe48b9.js.map": "/proyectoandrea/static/js/main.25fe48b9.js.map",
+    "415.28a12f50.chunk.js.map": "/proyectoandrea/static/js/415.28a12f50.chunk.js.map",
+    "787.b566892e.chunk.js.map": "/proyectoandrea/static/js/787.b566892e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e402c17d.css",
+    "static/js/main.25fe48b9.js"
+  ]
+}
